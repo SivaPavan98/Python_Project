@@ -1,2 +1,5 @@
-print("s")
-print("s")
+print("Master")
+print("Mastelocalr")
+print("Master")
+print("Mastelocalr")
+print("Master")
