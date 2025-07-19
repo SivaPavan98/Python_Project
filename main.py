@@ -10,3 +10,8 @@ with col2:
     content =""" This is TO DO Application created by Siva.
     """
     st.info(content)
+
+content2 = """
+Below you can find some apps I have built in python. Feel free to contact me...!"""
+
+st.info(content2)
