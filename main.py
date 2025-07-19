@@ -27,7 +27,6 @@ with col3 :
         st.image("images/" + row["image"])
         st.markdown(f"[{row['title']}]({row['url']})")
 
-
 with col4 :
     for index, row in df[10:].iterrows():
         st.header(row["title"])
